@@ -1,5 +1,5 @@
 var textoNormal;
-var textoInvertido = [];
+var textoInvertido = "";
 
 textoNormal = "Texto não invertido, para fins de teste";
 
